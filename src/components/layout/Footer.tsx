@@ -49,7 +49,7 @@ export function Footer() {
           </div>
         </div>
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm">© 2025 LaunchPad. All rights reserved.</p>
+          <p className="text-sm">&copy; 2025 LaunchPad. All rights reserved.</p>
           <div className="flex gap-6 text-sm">
             <Link href="/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
             <Link href="/terms" className="hover:text-white transition-colors">Terms of Service</Link>
